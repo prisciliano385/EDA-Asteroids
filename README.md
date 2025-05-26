@@ -13,3 +13,4 @@
     - One of the most extended asteroid classification criteria (and the one used in the dataset) is based on orbital parameters. Check how the **semi-major axis** and **orbital period** varies between different asteroid groups.
     - Check how different groups of asteroids have different values of **eccentricity** (a measure of an orbit's non-circularity).
     - Check how different groups of asteroids have different values of the inclination (the angle between the ecliptic plane and the orbit plane).
+    - Check the absolute magnitude ($H$) is distributed between different asteroid groups.

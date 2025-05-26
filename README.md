@@ -1,7 +1,7 @@
 # EDA-Asteroids
 
  This *Exploratory Data Analysis* analyzes a dataset containg information on more than $10^5$ asteroids in the Solar System. The Solar System is full of small bodies, with sizes that range from a few meters to the almost $10^3\,km$ wide Ceres (although it is no longer considered an asteroid, as it is considered a ). Their composition varies greatly, from the *icy* outer asteroids from the Kuiper belt to the more *rocky* of the main belt.
- [asteroides][./img/main_belt.jpg]
+ [asteroides](./img/main_belt.jpg)
  In addition to orbital parameters, such as the semi-major axis, orbital period, perihelium and aphelium distances and their uncertainties, brightness related parameters, such as the absolute magnitude and the albedo are included. In addition, asteroids are classified into different groups, depending on their orbital parameters. The risk that each asteroids means for us is also specified on the file. Let's get into depth!
 ---
 ## Hypothesis:
